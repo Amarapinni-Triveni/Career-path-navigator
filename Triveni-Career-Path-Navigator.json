@@ -1,0 +1,156 @@
+{
+  "project": {
+    "name": "Triveni - Career Path Navigator",
+    "purpose": "Education and Career Planning",
+    "goal": "Build a career combining commerce and technology as a Data Analyst or Business Analyst."
+  },
+  "profile": {
+    "name": "Amarapinni Triveni",
+    "education": "B.Com (Computer Applications)",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "age": 20,
+    "cgpa": 8.3,
+    "timeline": "24 months"
+  },
+  "career_goal": {
+    "primary_roles": [
+      "Data Analyst",
+      "Business Analyst"
+    ],
+    "target_skills": [
+      "Advanced Excel",
+      "SQL",
+      "Python",
+      "Power BI",
+      "Statistics",
+      "Communication",
+      "Problem Solving"
+    ]
+  },
+  "skill_gap_analysis": [
+    {
+      "skill": "Excel",
+      "current": "Basic",
+      "target": "Advanced",
+      "gap": "Moderate"
+    },
+    {
+      "skill": "SQL",
+      "current": "None",
+      "target": "Intermediate-Advanced",
+      "gap": "Critical"
+    },
+    {
+      "skill": "Python",
+      "current": "Basic programming",
+      "target": "Intermediate",
+      "gap": "Significant"
+    },
+    {
+      "skill": "Power BI",
+      "current": "None",
+      "target": "Intermediate",
+      "gap": "Critical"
+    },
+    {
+      "skill": "Statistics",
+      "current": "Basic",
+      "target": "Intermediate",
+      "gap": "Moderate"
+    },
+    {
+      "skill": "Professional Experience",
+      "current": "Limited",
+      "target": "Practical experience",
+      "gap": "Critical"
+    }
+  ],
+  "portfolio_projects": [
+    "Excel Dashboard Project",
+    "SQL Data Analysis Project",
+    "Python Data Analysis Project",
+    "Power BI Dashboard Project",
+    "End-to-End Business Analysis Project",
+    "Domain-Specific Project",
+    "Capstone Project combining SQL, Python and Power BI"
+  ],
+  "roadmap": [
+    {
+      "phase": 1,
+      "months": "1-6",
+      "name": "Foundation Building",
+      "focus": [
+        "Excel",
+        "SQL",
+        "Python",
+        "Statistics",
+        "Power BI introduction"
+      ]
+    },
+    {
+      "phase": 2,
+      "months": "7-12",
+      "name": "Skill Deepening + Experience",
+      "focus": [
+        "Power BI",
+        "Python visualization",
+        "Advanced SQL",
+        "Statistics",
+        "First internship"
+      ]
+    },
+    {
+      "phase": 3,
+      "months": "13-18",
+      "name": "Specialization + Major Experience",
+      "focus": [
+        "Domain specialization",
+        "Advanced Python",
+        "Second internship",
+        "Capstone"
+      ]
+    },
+    {
+      "phase": 4,
+      "months": "19-24",
+      "name": "Job Readiness + Placement",
+      "focus": [
+        "Resume",
+        "Interviews",
+        "Networking",
+        "Job applications",
+        "Placement"
+      ]
+    }
+  ],
+  "success_checkpoints": {
+    "6_months": [
+      "3 projects",
+      "2 certifications",
+      "First internship secured or in progress"
+    ],
+    "12_months": [
+      "5 projects",
+      "4 certifications",
+      "First internship completed"
+    ],
+    "18_months": [
+      "7 projects including capstone",
+      "5-6 certifications",
+      "Second internship completed"
+    ],
+    "24_months": [
+      "7+ projects",
+      "6+ certifications",
+      "2-3 internships",
+      "Job offer(s)"
+    ]
+  },
+  "immediate_next_steps": [
+    "Create or optimize GitHub, Kaggle and LinkedIn profiles",
+    "Enroll in Advanced Excel and SQL basics courses",
+    "Set a 2-hour daily learning schedule",
+    "Start the first Excel project",
+    "Join 3-5 data analytics communities"
+  ]
+}
