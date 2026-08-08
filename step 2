@@ -1,0 +1,12 @@
+    },
+    "step2": {
+      "title": "Career Goal",
+      "description": "Select a suitable career or educational goal based on the student's interests and background.",
+      "exampleGoals": [
+        "Data Analyst",
+        "Software Developer",
+        "Web Developer",
+        "Business Analyst",
+        "Digital Marketing Specialist",
+        "Banking Professional"
+      ]
