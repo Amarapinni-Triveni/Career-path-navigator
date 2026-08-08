@@ -1,0 +1,237 @@
+{
+  "presentationTitle": "Triveni Career Path Navigator",
+  "studentProfile": {
+    "name": "Amarapinni Triveni",
+    "education": "Undergraduate - B.Com Computer Applications",
+    "location": "Visakhapatnam, India"
+  },
+  "problemStatement": {
+    "title": "Career Confusion to Career Direction",
+    "description": "Many students are confused about choosing the right career because they do not have clear information about suitable careers, required skills, learning resources, and career pathways.",
+    "goal": "Provide students with a simple, personalized and step-by-step career roadmap."
+  },
+  "careerNavigator": {
+    "step1": {
+      "title": "Self Assessment",
+      "description": "Understand interests, strengths, skills and career goals.",
+      "activities": [
+        "Identify interests",
+        "List current skills",
+        "Identify strengths",
+        "Identify weaknesses",
+        "Define career aspirations"
+      ]
+    },
+    "step2": {
+      "title": "Career Goal",
+      "description": "Select a suitable career or educational goal based on the student's interests and background.",
+      "exampleGoals": [
+        "Data Analyst",
+        "Software Developer",
+        "Web Developer",
+        "Business Analyst",
+        "Digital Marketing Specialist",
+        "Banking Professional"
+      ]
+    },
+    "step3": {
+      "title": "Skill Gap Analysis",
+      "description": "Compare existing skills with the skills required for the selected career.",
+      "analysis": [
+        "Current skills",
+        "Required skills",
+        "Missing skills",
+        "Priority skills"
+      ]
+    },
+    "step4": {
+      "title": "Learning Roadmap",
+      "description": "Create a structured learning plan to develop the required skills.",
+      "roadmap": [
+        {
+          "phase": "Foundation",
+          "duration": "1-2 months",
+          "focus": [
+            "Computer fundamentals",
+            "Communication skills",
+            "Basic programming"
+          ]
+        },
+        {
+          "phase": "Skill Development",
+          "duration": "2-4 months",
+          "focus": [
+            "Advanced technical skills",
+            "Projects",
+            "Problem solving"
+          ]
+        },
+        {
+          "phase": "Practical Experience",
+          "duration": "2-3 months",
+          "focus": [
+            "Real-world projects",
+            "Internships",
+            "Portfolio development"
+          ]
+        },
+        {
+          "phase": "Career Preparation",
+          "duration": "1-2 months",
+          "focus": [
+            "Resume preparation",
+            "Interview preparation",
+            "Job applications"
+          ]
+        }
+      ]
+    },
+    "step5": {
+      "title": "Resources",
+      "description": "Recommend affordable and accessible learning resources.",
+      "resources": [
+        "Online courses",
+        "YouTube tutorials",
+        "Documentation",
+        "Practice platforms",
+        "Projects",
+        "Internships"
+      ]
+    },
+    "step6": {
+      "title": "Weekly Action Plan",
+      "description": "Convert the career roadmap into achievable weekly activities.",
+      "samplePlan": {
+        "Monday": "Learn a new concept",
+        "Tuesday": "Practice exercises",
+        "Wednesday": "Watch tutorials",
+        "Thursday": "Complete practical tasks",
+        "Friday": "Work on a mini project",
+        "Saturday": "Review and practice",
+        "Sunday": "Track progress and plan next week"
+      }
+    },
+    "step7": {
+      "title": "Progress Tracking",
+      "description": "Monitor learning progress and continuously improve skills.",
+      "trackingMetrics": [
+        "Courses completed",
+        "Skills developed",
+        "Projects completed",
+        "Certificates earned",
+        "Interview readiness",
+        "Job applications"
+      ]
+    }
+  },
+  "personalizedCareerPlan": {
+    "student": "Amarapinni Triveni",
+    "recommendedDirection": "Technology and Business-related careers",
+    "possibleCareerPaths": [
+      {
+        "career": "Data Analyst",
+        "skills": [
+          "Excel",
+          "SQL",
+          "Python",
+          "Power BI",
+          "Statistics"
+        ]
+      },
+      {
+        "career": "Web Developer",
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Git"
+        ]
+      },
+      {
+        "career": "Business Analyst",
+        "skills": [
+          "Business Communication",
+          "Excel",
+          "SQL",
+          "Data Analysis",
+          "Problem Solving"
+        ]
+      }
+    ]
+  },
+  "careerDecisionFramework": {
+    "criteria": [
+      "Interest",
+      "Skills",
+      "Education",
+      "Job Opportunities",
+      "Salary Potential",
+      "Learning Cost",
+      "Career Growth"
+    ],
+    "decision": "Choose the career that best matches the student's interests, existing skills, learning ability and long-term goals."
+  },
+  "presentationSlides": [
+    {
+      "slide": 1,
+      "title": "Triveni Career Path Navigator",
+      "content": "From Aspiration to an Achievable Career Plan"
+    },
+    {
+      "slide": 2,
+      "title": "Problem Statement",
+      "content": "Students often face confusion when choosing a career and do not know which skills or courses they need."
+    },
+    {
+      "slide": 3,
+      "title": "Our Solution",
+      "content": "A personalized AI-powered Career Path Navigator that guides students step by step."
+    },
+    {
+      "slide": 4,
+      "title": "Student Profile",
+      "content": "Amarapinni Triveni - B.Com Computer Applications - Visakhapatnam"
+    },
+    {
+      "slide": 5,
+      "title": "Career Goal",
+      "content": "Identify a suitable career based on interests, education and existing skills."
+    },
+    {
+      "slide": 6,
+      "title": "Skill Gap Analysis",
+      "content": "Identify current skills, required skills and missing skills."
+    },
+    {
+      "slide": 7,
+      "title": "Learning Roadmap",
+      "content": "Foundation → Skill Development → Practical Experience → Career Preparation"
+    },
+    {
+      "slide": 8,
+      "title": "Weekly Action Plan",
+      "content": "Break the learning roadmap into simple weekly tasks."
+    },
+    {
+      "slide": 9,
+      "title": "Progress Tracking",
+      "content": "Track courses, projects, certificates, skills and job applications."
+    },
+    {
+      "slide": 10,
+      "title": "Expected Outcome",
+      "content": "Reduce career confusion and help students move from aspiration to an achievable career."
+    },
+    {
+      "slide": 11,
+      "title": "Future Scope",
+      "content": "AI-based career recommendations, resume analysis, job matching, skill assessments and personalized learning recommendations."
+    },
+    {
+      "slide": 12,
+      "title": "Conclusion",
+      "content": "Triveni Career Path Navigator helps students understand where they are, where they want to go and how to reach their career goal step by step."
+    }
+  ]
+}
